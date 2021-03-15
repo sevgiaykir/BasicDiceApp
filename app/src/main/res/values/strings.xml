@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="temizle">TEMİZLE</string>
+    <string name="zarlari_at">ZARLARI AT</string>
+    <string name="todo">TODO</string>
+    <string name="say">Sayı</string>
+</resources>
